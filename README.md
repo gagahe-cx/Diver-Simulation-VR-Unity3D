@@ -1,7 +1,8 @@
 # Diver Simulation VR Game - Unity3D
 Simulate a diver interface with Unity.
 
-![image](demos/crewmates.png)
+<img src="demos/instruction.png" width="500"> 
+<img src="demos/sos_button.png" width="500"><img src="demos/crewmates.png" width="500">
 
 | Student name | Student email |
 | --- | --- |
