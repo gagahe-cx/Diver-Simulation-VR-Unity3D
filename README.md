@@ -1,5 +1,4 @@
-# HCI
-CMSC 20300 Introduction to Human Computer Interaction Course 2023-24 Project II
+# Diver Simulation VR Game - Unity3D
 
 | Student name | Student email |
 | --- | --- |
